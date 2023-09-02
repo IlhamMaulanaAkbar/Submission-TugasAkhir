@@ -1,7 +1,7 @@
 # Submission-TugasAkhir
 ## Submission : Tugas Akhir Membuat Website dari SIB Dicoding Acedemy Cycle 5
 
-Tema dari Submission Tugas Akhir ini adalah tentang Gramedia Indonesia
+Tema yang saya buat dari Submission Tugas Akhir Membuat Website ini adalah tentang Gramedia Indonesia
 
 Screem Picture :
 ![image](https://github.com/IlhamMaulanaAkbar/Submission-TugasAkhir/assets/116945150/69ca3fb2-2f9a-45df-9e19-34db4d94ceac)
